@@ -1,0 +1,14 @@
+﻿@{
+    var backUrl = PageHelper.GetBaseUrl();
+    try {
+        backUrl = Html.Encode(Request.UrlReferrer.ToString());
+    }
+    catch (Exception) { }
+}
+
+<div class="jumbotron">
+    <h1 style="font-size: 32px; font-weight: bold;">Unauthorized Access</h1>
+    <p style="font-size: 14px;">You do not have permission to view this page using the credentials you have provided.</p>
+    <p style="font-size: 14px;">Contact the administrator to add your account into appropriate security group(s). Wait until the new role assignments take effect, and then try again.</p>
+    <p><a class="btn btn-primary btn-large" href="@backUrl">Go back to previous page &raquo;</a></p>
+</div>

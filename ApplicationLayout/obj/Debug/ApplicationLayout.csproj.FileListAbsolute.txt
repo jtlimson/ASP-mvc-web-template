@@ -1,0 +1,222 @@
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll.config
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.pdb
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\EntityFramework.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Owin.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\WebGrease.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.pdb
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\EntityFramework.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.csprojResolveAssemblyReference.cache
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.dll
+c:\users\mmontebon\documents\visual studio 2013\Projects\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.pdb
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll.config
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.pdb
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Web.Infrastructure.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Owin.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\WebGrease.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.pdb
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.xml
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.csprojResolveAssemblyReference.cache
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.dll
+D:\mmontebon_Data\svn_repo\intranet\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.pdb
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll.config
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.pdb
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Web.Infrastructure.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Owin.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\WebGrease.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.pdb
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.xml
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.csprojResolveAssemblyReference.cache
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.csproj.CoreCompileInputs.cache
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.dll
+D:\Yuukka Files\Work\office files\phcebwebapps\AppTemplate\asp.net\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.pdb
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll.config
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\ApplicationLayout.pdb
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\EntityFramework.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Owin.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\WebGrease.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Antlr3.Runtime.pdb
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\EntityFramework.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\EntityFramework.SqlServer.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\Newtonsoft.Json.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Helpers.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Mvc.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Razor.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Deployment.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.WebPages.Razor.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\bin\System.Web.Optimization.xml
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.csprojResolveAssemblyReference.cache
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.csproj.CoreCompileInputs.cache
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.dll
+C:\Users\R4535037\Desktop\ApplicationLayout\ApplicationLayout\obj\Debug\ApplicationLayout.pdb
