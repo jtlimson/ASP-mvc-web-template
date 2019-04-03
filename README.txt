@@ -1,1 +1,5 @@
-this can save you alot of time. so buy me a coffee.
+#Functions
+- Layout
+- Menus
+- Boostraps
+
