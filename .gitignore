@@ -1,1 +1,4 @@
 bin/
+ApplicationLayout/bin/
+.vs/ApplicationLayout/
+ApplicationLayout/obj/
