@@ -23,7 +23,7 @@ namespace ApplicationLayout
                       "~/Scripts/bootstrap.min.js",
                       "~/Scripts/respond.js"));
 
-            bundles.Add(new StyleBundle("~/Content/css").Include(
+            bundles.Add(new StyleBundle("~/bundles/css").Include(
                       "~/Content/css/bootstrap.min.css",
                       "~/Content/css/custom.css",
                       "~/Content/css/font-awesome.css",
