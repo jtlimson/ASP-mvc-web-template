@@ -28,6 +28,7 @@ namespace ApplicationLayout
                       "~/Content/css/custom.css",
                       "~/Content/css/font-awesome.css",
                       "~/Content/css/font-awesome.min.css"));
+
             BundleTable.EnableOptimizations = true;
         }
     }
