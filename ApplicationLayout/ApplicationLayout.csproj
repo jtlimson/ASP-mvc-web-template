@@ -203,10 +203,6 @@
     <Content Include="Content\font-awesome\css\font-awesome.css" />
     <Content Include="Content\font-awesome\css\font-awesome.min.css" />
     <Content Include="Content\font-awesome\fonts\fontawesome-webfont.svg" />
-    <Content Include="Content\images\cebuit.png" />
-    <Content Include="Content\images\lexmark-symbol-desktop-32x32.png" />
-    <Content Include="Content\images\lexmarklog-white.png" />
-    <Content Include="Content\images\lexmarklogo.png" />
     <Content Include="Content\images\sprite.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
